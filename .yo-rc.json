@@ -1,0 +1,11 @@
+{
+  "generator-jhipster": {
+    "appsFolders": ["api-gateway", "config-server", "user-service"],
+    "directoryPath": "F:\\JHipster/",
+    "gatewayType": "zuul",
+    "monitoring": "elk",
+    "consoleOptions": [],
+    "serviceDiscoveryType": "eureka",
+    "jwtSecretKey": "NzkyYTE1OTE0ZDM4MmZiZjQ2N2VlMjM3ODJmZjc0NWNkMjk3MTUxNDk4MmIwNWViMTU0YjcyOTA1NmY2YWZlNjQwY2Q4ZDBmYTUxNGRlY2Q5ZDFhNTkyMzY4MzM1ZjYzODRiMA=="
+  }
+}
